@@ -1,5 +1,5 @@
 @echo off
-color 05
+color 04
 title Tool-Mancer - by bluetux
 chcp 65001 >nul 
 goto banner
